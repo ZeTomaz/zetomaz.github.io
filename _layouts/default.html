@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <div style="text-align: center; padding: 20px;">
+            <!-- Logo Section -->
+            <img src="{{ '/images/logo.png' | relative_url }}" alt="NYUMBA Food Concept Logo" style="max-width: 200px; height: auto;">
+        </div>
+        
+        <nav style="text-align: center; background: #f8f8f8; padding: 15px; margin-bottom: 20px;">
+            <a href="{{ '/' | relative_url }}" style="margin: 0 15px; text-decoration: none; color: #333;">Home</a>
+            <a href="{{ '/menu' | relative_url }}" style="margin: 0 15px; text-decoration: none; color: #333;">Menu</a>
+            <a href="{{ '/gallery' | relative_url }}" style="margin: 0 15px; text-decoration: none; color: #333;">Galeria</a>
+            <a href="{{ '/contact' | relative_url }}" style="margin: 0 15px; text-decoration: none; color: #333;">Contacto</a>
+        </nav>
+    </header>
+
+    <main style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+        {{ content }}
+    </main>
+
+    <footer style="text-align: center; padding: 30px; margin-top: 50px; background: #f8f8f8;">
+        <p>&copy; 2025 NYUMBA Food Concept. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
