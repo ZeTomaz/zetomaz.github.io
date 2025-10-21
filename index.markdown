@@ -17,14 +17,20 @@ title: "NYUMBA Food Concept"
     <p>Todos os dias das 9:00 às 22:30</p>
     
     <h3>Contactos</h3>
-    <p>📧 Email: nyumba.maputo@gmail.com</p>
-    <p>📞 Telefone/WhatsApp: +258 864663788</p>
+    <p>📧 Email: <a href="mailto:nyumba.maputo@gmail.com" style="color: #d35400;">nyumba.maputo@gmail.com</a></p>
+    <p>📞 <a href="https://wa.me/258864663788" target="_blank" style="color: #25D366; text-decoration: none;">WhatsApp: +258 864663788</a></p>
+    <p>📞 Telefone: <a href="tel:+258864663788" style="color: #2980b9;">+258 864663788</a></p>
     
     <h3>Localização</h3>
     <p>FEIMA, Parque dos Continuadores, Maputo Moçambique</p>
-    <a href="https://maps.google.com/?q=-25.9665,32.5802" target="_blank" style="display: inline-block; padding: 10px 20px; background: #4285f4; color: white; text-decoration: none; border-radius: 5px; margin: 10px 0;">
+    <a href="https://www.google.com/maps/place/Feima+-+Feira+Internacional+de+Maputo/@-25.9665,32.5802,15z/data=!4m6!3m5!1s0x1ee69b203d819b6b:0x5beba8c9f2e7d1e1!8m2!3d-25.9665!4d32.5802!16s%2Fg%2F1thk8t_f?entry=ttu" target="_blank" style="display: inline-block; padding: 10px 20px; background: #4285f4; color: white; text-decoration: none; border-radius: 5px; margin: 10px 0;">
         📍 Ver no Google Maps
     </a>
+    
+    <!-- Embedded Google Maps -->
+    <div style="margin: 20px 0;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.227147225909!2d32.57762517570006!3d-25.966556977211066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69b203d819b6b%3A0x5beba8c9f2e7d1e1!2sFeima%20-%20Feira%20Internacional%20de%20Maputo!5e0!3m2!1spt-PT!2smz!4v1698765432100!5m2!1spt-PT!2smz" width="100%" height="300" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
     
     <!-- Navigation Buttons -->
     <div style="margin: 30px 0;">
@@ -42,14 +48,20 @@ title: "NYUMBA Food Concept"
     <p>Every day from 9:00 AM to 10:30 PM</p>
     
     <h3>Contact Information</h3>
-    <p>📧 Email: nyumba.maputo@gmail.com</p>
-    <p>📞 Phone/WhatsApp: +258 864663788</p>
+    <p>📧 Email: <a href="mailto:nyumba.maputo@gmail.com" style="color: #d35400;">nyumba.maputo@gmail.com</a></p>
+    <p>📞 <a href="https://wa.me/258864663788" target="_blank" style="color: #25D366; text-decoration: none;">WhatsApp: +258 864663788</a></p>
+    <p>📞 Phone: <a href="tel:+258864663788" style="color: #2980b9;">+258 864663788</a></p>
     
     <h3>Location</h3>
     <p>FEIMA, Parque dos Continuadores, Maputo Mozambique</p>
-    <a href="https://maps.google.com/?q=-25.9665,32.5802" target="_blank" style="display: inline-block; padding: 10px 20px; background: #4285f4; color: white; text-decoration: none; border-radius: 5px; margin: 10px 0;">
+    <a href="https://www.google.com/maps/place/Feima+-+Feira+Internacional+de+Maputo/@-25.9665,32.5802,15z/data=!4m6!3m5!1s0x1ee69b203d819b6b:0x5beba8c9f2e7d1e1!8m2!3d-25.9665!4d32.5802!16s%2Fg%2F1thk8t_f?entry=ttu" target="_blank" style="display: inline-block; padding: 10px 20px; background: #4285f4; color: white; text-decoration: none; border-radius: 5px; margin: 10px 0;">
         📍 View on Google Maps
     </a>
+    
+    <!-- Embedded Google Maps -->
+    <div style="margin: 20px 0;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.227147225909!2d32.57762517570006!3d-25.966556977211066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69b203d819b6b%3A0x5beba8c9f2e7d1e1!2sFeima%20-%20Feira%20Internacional%20de%20Maputo!5e0!3m2!1spt-PT!2smz!4v1698765432100!5m2!1spt-PT!2smz" width="100%" height="300" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
     
     <!-- Navigation Buttons -->
     <div style="margin: 30px 0;">
