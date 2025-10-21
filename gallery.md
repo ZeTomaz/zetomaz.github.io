@@ -16,22 +16,13 @@ title: "Galeria - NYUMBA Food Concept"
     <h2>Galeria do Nosso Espaço</h2>
     
     <div style="text-align: center;">
-        <p>Adicione aqui as suas imagens do kiosk NYUMBA Food Concept</p>
+        <p>Conheça o nosso kiosk NYUMBA Food Concept</p>
         
-        <!-- Example image placeholders - replace with your actual images -->
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Imagem 1 do Espaço</p>
-            </div>
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Imagem 2 da Comida</p>
-            </div>
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Imagem 3 do Ambiente</p>
-            </div>
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Imagem 4 dos Clientes</p>
-            </div>
+            <img src="{{ '/images/gallery1.jpg' | relative_url }}" alt="NYUMBA Food Concept Espaço 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
+            <img src="{{ '/images/gallery2.jpg' | relative_url }}" alt="NYUMBA Food Concept Espaço 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
+            <img src="{{ '/images/gallery3.jpg' | relative_url }}" alt="NYUMBA Food Concept Espaço 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
+            <img src="{{ '/images/gallery4.jpg' | relative_url }}" alt="NYUMBA Food Concept Espaço 4" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
         </div>
     </div>
 </div>
@@ -40,30 +31,16 @@ title: "Galeria - NYUMBA Food Concept"
     <h2>Our Space Gallery</h2>
     
     <div style="text-align: center;">
-        <p>Add your NYUMBA Food Concept kiosk images here</p>
+        <p>Discover our NYUMBA Food Concept kiosk</p>
         
-        <!-- Example image placeholders - replace with your actual images -->
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Space Image 1</p>
-            </div>
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Food Image 2</p>
-            </div>
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Ambience Image 3</p>
-            </div>
-            <div style="background: #f0f0f0; height: 200px; display: flex; align-items: center; justify-content: center; border-radius: 10px;">
-                <p>Customers Image 4</p>
-            </div>
+            <img src="{{ '/images/gallery1.jpg' | relative_url }}" alt="NYUMBA Food Concept Space 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
+            <img src="{{ '/images/gallery2.jpg' | relative_url }}" alt="NYUMBA Food Concept Space 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
+            <img src="{{ '/images/gallery3.jpg' | relative_url }}" alt="NYUMBA Food Concept Space 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
+            <img src="{{ '/images/gallery4.jpg' | relative_url }}" alt="NYUMBA Food Concept Space 4" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;">
         </div>
     </div>
 </div>
-
-<p style="text-align: center;">
-    <em>Para adicionar imagens, salve-as na pasta 'images' e use:<br>
-    &lt;img src="{{ '/images/nome-da-sua-imagem.jpg' | relative_url }}" alt="Descrição" style="max-width: 100%; border-radius: 10px;"&gt;</em>
-</p>
 
 <script>
 function switchGalleryLanguage(lang) {
