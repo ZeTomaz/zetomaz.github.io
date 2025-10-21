@@ -28,8 +28,8 @@ title: "NYUMBA Food Concept"
     </a>
     
     <!-- Embedded Google Maps -->
-    <div style="margin: 20px 0;">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.227147225909!2d32.57762517570006!3d-25.966556977211066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69b203d819b6b%3A0x5beba8c9f2e7d1e1!2sFeima%20-%20Feira%20Internacional%20de%20Maputo!5e0!3m2!1spt-PT!2smz!4v1698765432100!5m2!1spt-PT!2smz" width="100%" height="300" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div style="margin: 20px 0; text-align: center;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d14348.18786452354!2d32.5802!3d-25.9665!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sen!2spt!4v1761008133602!5m2!1sen!2spt" width="100%" height="300" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     
     <!-- Navigation Buttons -->
@@ -59,8 +59,8 @@ title: "NYUMBA Food Concept"
     </a>
     
     <!-- Embedded Google Maps -->
-    <div style="margin: 20px 0;">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.227147225909!2d32.57762517570006!3d-25.966556977211066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69b203d819b6b%3A0x5beba8c9f2e7d1e1!2sFeima%20-%20Feira%20Internacional%20de%20Maputo!5e0!3m2!1spt-PT!2smz!4v1698765432100!5m2!1spt-PT!2smz" width="100%" height="300" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div style="margin: 20px 0; text-align: center;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d14348.18786452354!2d32.5802!3d-25.9665!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sen!2spt!4v1761008133602!5m2!1sen!2spt" width="100%" height="300" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     
     <!-- Navigation Buttons -->
